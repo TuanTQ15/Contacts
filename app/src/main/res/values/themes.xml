@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyApplication" parent="AppTheme.Blue_300" >
+        <item name="colorPrimary">#11CFC5</item>
+        <item name="android:textColorPrimary">@color/theme_dark_background_color</item>
+        <item name="colorAccent">#11CFC5</item>
+        <item name="colorPrimaryDark">#93FDF7</item>
+    </style>
+</resources>
